@@ -1,0 +1,933 @@
+/Users/tientcheu/Desktop/Crud_api/obj/Debug/net6.0/Crud_api.csproj.AssemblyReference.cache
+/Users/tientcheu/Desktop/Crud_api/obj/Debug/net6.0/Crud_api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tientcheu/Desktop/Crud_api/obj/Debug/net6.0/Crud_api.AssemblyInfoInputs.cache
+/Users/tientcheu/Desktop/Crud_api/obj/Debug/net6.0/Crud_api.AssemblyInfo.cs
+/Users/tientcheu/Desktop/Crud_api/obj/Debug/net6.0/Crud_api.csproj.CoreCompileInputs.cache
+/Users/tientcheu/Desktop/Crud_api/obj/Debug/net6.0/Crud_api.MvcApplicationPartsAssemblyInfo.cs
+/Users/tientcheu/Desktop/Crud_api/obj/Debug/net6.0/Crud_api.MvcApplicationPartsAssemblyInfo.cache
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/appsettings.Development.json
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/appsettings.json
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Crud_api
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Crud_api.deps.json
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Crud_api.runtimeconfig.json
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Crud_api.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Crud_api.pdb
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Azure.Core.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Azure.Identity.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Humanizer.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/MessagePack.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/MessagePack.Annotations.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.Build.Locator.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/NuGet.Common.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/NuGet.Configuration.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/NuGet.LibraryModel.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/NuGet.Packaging.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/NuGet.ProjectModel.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/NuGet.Protocol.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/NuGet.Versioning.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/System.CodeDom.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/System.Composition.Convention.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/System.Composition.Hosting.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/System.Composition.Runtime.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/System.Composition.TypedParts.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/System.Text.Json.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/win-arm/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/win-arm64/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/browser-wasm/nativeassets/net6.0/e_sqlite3.a
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/tientcheu/Desktop/Crud_api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/tientcheu/Desktop/Crud_api/obj/Debug/net6.0/staticwebassets.build.json
+/Users/tientcheu/Desktop/Crud_api/obj/Debug/net6.0/staticwebassets.development.json
+/Users/tientcheu/Desktop/Crud_api/obj/Debug/net6.0/scopedcss/bundle/Crud_api.styles.css
+/Users/tientcheu/Desktop/Crud_api/obj/Debug/net6.0/Crud_api.csproj.CopyComplete
+/Users/tientcheu/Desktop/Crud_api/obj/Debug/net6.0/Crud_api.dll
+/Users/tientcheu/Desktop/Crud_api/obj/Debug/net6.0/refint/Crud_api.dll
+/Users/tientcheu/Desktop/Crud_api/obj/Debug/net6.0/Crud_api.pdb
+/Users/tientcheu/Desktop/Crud_api/obj/Debug/net6.0/Crud_api.genruntimeconfig.cache
+/Users/tientcheu/Desktop/Crud_api/obj/Debug/net6.0/ref/Crud_api.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/appsettings.Development.json
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/appsettings.json
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Crud_api.exe
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Crud_api.deps.json
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Crud_api.runtimeconfig.json
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Crud_api.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Crud_api.pdb
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Azure.Core.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Azure.Identity.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Humanizer.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/MessagePack.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/MessagePack.Annotations.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.Build.Locator.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Mono.TextTemplating.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Newtonsoft.Json.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/NuGet.Common.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/NuGet.Configuration.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/NuGet.Frameworks.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/NuGet.LibraryModel.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/NuGet.Packaging.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/NuGet.ProjectModel.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/NuGet.Protocol.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/NuGet.Versioning.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/System.CodeDom.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/System.Composition.Convention.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/System.Composition.Hosting.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/System.Composition.Runtime.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/System.Composition.TypedParts.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/System.Drawing.Common.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/System.Memory.Data.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/System.Runtime.Caching.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/System.Security.Permissions.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/System.Text.Json.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/System.Windows.Extensions.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/win-arm/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/win-arm64/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/alpine-arm/native/libe_sqlite3.so
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/browser-wasm/nativeassets/net6.0/e_sqlite3.a
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/obj/Debug/net6.0/Crud_api.csproj.AssemblyReference.cache
+D:/Save/PROJECTS/DotNet Projects/Crud_api/obj/Debug/net6.0/Crud_api.GeneratedMSBuildEditorConfig.editorconfig
+D:/Save/PROJECTS/DotNet Projects/Crud_api/obj/Debug/net6.0/Crud_api.AssemblyInfoInputs.cache
+D:/Save/PROJECTS/DotNet Projects/Crud_api/obj/Debug/net6.0/Crud_api.AssemblyInfo.cs
+D:/Save/PROJECTS/DotNet Projects/Crud_api/obj/Debug/net6.0/Crud_api.csproj.CoreCompileInputs.cache
+D:/Save/PROJECTS/DotNet Projects/Crud_api/obj/Debug/net6.0/Crud_api.MvcApplicationPartsAssemblyInfo.cs
+D:/Save/PROJECTS/DotNet Projects/Crud_api/obj/Debug/net6.0/Crud_api.MvcApplicationPartsAssemblyInfo.cache
+D:/Save/PROJECTS/DotNet Projects/Crud_api/obj/Debug/net6.0/staticwebassets.build.json
+D:/Save/PROJECTS/DotNet Projects/Crud_api/obj/Debug/net6.0/staticwebassets.development.json
+D:/Save/PROJECTS/DotNet Projects/Crud_api/obj/Debug/net6.0/scopedcss/bundle/Crud_api.styles.css
+D:/Save/PROJECTS/DotNet Projects/Crud_api/obj/Debug/net6.0/Crud_api.csproj.CopyComplete
+D:/Save/PROJECTS/DotNet Projects/Crud_api/obj/Debug/net6.0/Crud_api.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/obj/Debug/net6.0/refint/Crud_api.dll
+D:/Save/PROJECTS/DotNet Projects/Crud_api/obj/Debug/net6.0/Crud_api.pdb
+D:/Save/PROJECTS/DotNet Projects/Crud_api/obj/Debug/net6.0/Crud_api.genruntimeconfig.cache
+D:/Save/PROJECTS/DotNet Projects/Crud_api/obj/Debug/net6.0/ref/Crud_api.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/appsettings.Development.json
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/appsettings.json
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Crud_api
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Crud_api.deps.json
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Crud_api.runtimeconfig.json
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Crud_api.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Crud_api.pdb
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Azure.Core.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Azure.Identity.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Humanizer.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/MessagePack.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/MessagePack.Annotations.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.Build.Locator.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/NuGet.Common.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/NuGet.Configuration.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/NuGet.LibraryModel.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/NuGet.Packaging.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/NuGet.ProjectModel.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/NuGet.Protocol.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/NuGet.Versioning.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/System.CodeDom.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/System.Composition.Convention.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/System.Composition.Hosting.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/System.Composition.Runtime.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/System.Composition.TypedParts.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/System.Text.Json.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/win-arm/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/win-arm64/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/browser-wasm/nativeassets/net6.0/e_sqlite3.a
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/hello/Downloads/Crud_api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/hello/Downloads/Crud_api/obj/Debug/net6.0/Crud_api.csproj.AssemblyReference.cache
+/Users/hello/Downloads/Crud_api/obj/Debug/net6.0/Crud_api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hello/Downloads/Crud_api/obj/Debug/net6.0/Crud_api.AssemblyInfoInputs.cache
+/Users/hello/Downloads/Crud_api/obj/Debug/net6.0/Crud_api.AssemblyInfo.cs
+/Users/hello/Downloads/Crud_api/obj/Debug/net6.0/Crud_api.csproj.CoreCompileInputs.cache
+/Users/hello/Downloads/Crud_api/obj/Debug/net6.0/Crud_api.MvcApplicationPartsAssemblyInfo.cs
+/Users/hello/Downloads/Crud_api/obj/Debug/net6.0/Crud_api.MvcApplicationPartsAssemblyInfo.cache
+/Users/hello/Downloads/Crud_api/obj/Debug/net6.0/staticwebassets.build.json
+/Users/hello/Downloads/Crud_api/obj/Debug/net6.0/staticwebassets.development.json
+/Users/hello/Downloads/Crud_api/obj/Debug/net6.0/scopedcss/bundle/Crud_api.styles.css
+/Users/hello/Downloads/Crud_api/obj/Debug/net6.0/Crud_api.csproj.CopyComplete
+/Users/hello/Downloads/Crud_api/obj/Debug/net6.0/Crud_api.dll
+/Users/hello/Downloads/Crud_api/obj/Debug/net6.0/refint/Crud_api.dll
+/Users/hello/Downloads/Crud_api/obj/Debug/net6.0/Crud_api.pdb
+/Users/hello/Downloads/Crud_api/obj/Debug/net6.0/Crud_api.genruntimeconfig.cache
+/Users/hello/Downloads/Crud_api/obj/Debug/net6.0/ref/Crud_api.dll
